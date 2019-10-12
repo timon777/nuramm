@@ -1815,3 +1815,15 @@ body {
 .cid-rEHxLW8Iv0 {
   background-image: url("../../../assets/images/-2-1920x1280.jpg");
 }
+.cid-rEHyKBvuKL {
+  background: #ffffff;
+}
+.cid-rEHyKBvuKL .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rEHyKBvuKL .video-block {
+    width: 100% !important;
+  }
+}
