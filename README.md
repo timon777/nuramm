@@ -1,2 +1,0 @@
-# nuramm
-GitHub Pages
