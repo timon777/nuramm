@@ -1448,7 +1448,7 @@ a {
   }
 
   .main {
-    background-image: url('../images/background-lines-min.png'), url('../images/Фон-min.webp');
+    background-image: url('../images/background-lines-min.png'), url('../images/Фон-min.png');
     background-position: 50% 50%, 50% 50%;
     background-size: 1180px, cover;
     background-repeat: no-repeat, no-repeat;
@@ -1552,7 +1552,7 @@ a {
 
   .main {
     overflow: hidden;
-    background-image: url('../images/Фон-min.webp');
+    background-image: url('../images/Фон-min.png');
   }
 
   .paragraph-2 {
